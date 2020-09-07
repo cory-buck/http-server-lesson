@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "if test -f \"./dist\"; then rm -r \"./dist\"; fi && tsc",
+    "build": "rm -r \"./dist\" && tsc",
     "start": "npm run build && node ./dist/main.js"
   },
   "keywords": [],
