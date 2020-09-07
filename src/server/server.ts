@@ -1,16 +1,16 @@
 import * as http from 'http';
-import { Log } from '../log';
+import { Logger } from '../log';
 import fs from 'fs';
 
 export class Server{
 
   private server: http.Server;
-  private logger: Log;
+  private logger: Logger;
 
   constructor(){
-    this.logger = new Log("Server");
+    this.logger = Logger.Create("Server");
     this.server = http.createServer((req, res)=>{
-      this.logger.i(`REQUEST: ${req.url}`);
+      this.logger.info(`REQUEST: ${req.url}`);
       if(req.url && fs.existsSync("./" + req.url)){
         const contents = fs.readFileSync("./" + req.url);
         res.writeHead(200, { "Content-type": "application/json" });
@@ -25,10 +25,12 @@ export class Server{
       }
     });
 
-    this.server.on("connection", ()=>this.logger.i("NEW CONNECTION"));
-    this.server.on("listening", ()=>this.logger.i("LISTENING"));
-    this.server.on("close", ()=>this.logger.i("CLOSED"));
-    this.server.on("error", (e)=>this.logger.i(`ERROR: ${e}`));
+    this.server.on("connection", (connection)=>{
+      this.logger.info(`NEW CONNECTION: ${connection.remoteAddress}`);
+    });
+    this.server.on("listening", ()=>this.logger.info("LISTENING"));
+    this.server.on("close", ()=>this.logger.info("CLOSED"));
+    this.server.on("error", (e)=>this.logger.info(`ERROR: ${e}`));
   }
 
 

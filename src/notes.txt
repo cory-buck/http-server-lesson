@@ -1,0 +1,12 @@
+- data types
+  - boolean: 1 byte
+    - values: true/false
+  - string: n bytes  (2 per character)
+    - values: "<text goes here>"
+  - integer: 4 bytes 
+    - vaues: [0-9]+
+  - float: 8 bytes  
+    - values: same as integer but with decimal
+  - any: (typescript specific for "any" type can be used)
+  - object: all things are objects except for primitives (boolean, integer, float)
+  - void: nothing
