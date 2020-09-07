@@ -10,3 +10,14 @@
   - any: (typescript specific for "any" type can be used)
   - object: all things are objects except for primitives (boolean, integer, float)
   - void: nothing
+
+
+to pull w/o local copy:
+  - mkdir (directory)
+  - cd (directory)
+  - git init
+  - git remote add origin (url)
+  - git pull
+
+to pull w/ local copy
+  - git pull
