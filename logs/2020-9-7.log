@@ -1,0 +1,678 @@
+2020-09-07T16:46:05.124Z main [INFO] starting up
+2020-09-07T16:46:05.124Z HttpServer [INFO] Starting...
+2020-09-07T16:46:05.126Z HttpServer [INFO] Listening on port: 80
+2020-09-07T16:46:05.127Z main [INFO] started
+2020-09-07T16:46:13.493Z HttpServer [INFO] Stopping...
+2020-09-07T16:46:13.495Z HttpServer [INFO] ...Closed.
+2020-09-07T16:46:21.752Z main [INFO] starting up
+2020-09-07T16:46:21.752Z HttpServer [INFO] Starting...
+2020-09-07T16:46:21.754Z HttpServer [INFO] Listening on port: 80
+2020-09-07T16:46:21.755Z main [INFO] started
+2020-09-07T16:46:27.020Z HttpServer [INFO] Stopping...
+2020-09-07T16:46:27.021Z HttpServer [INFO] ...Closed.
+2020-09-07T17:56:39.200Z main [INFO] starting up
+2020-09-07T17:56:39.200Z HttpServer [INFO] Starting...
+2020-09-07T17:56:39.203Z HttpServer [INFO] Listening on port: 80
+2020-09-07T17:56:39.203Z main [INFO] started
+2020-09-07T17:56:50.647Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T17:56:50.648Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T17:56:50.650Z main [INFO] Request: /
+2020-09-07T17:57:30.639Z HttpServer [INFO] Stopping...
+2020-09-07T17:57:33.167Z HttpServer [INFO] Stopping...
+2020-09-07T17:57:37.778Z main [INFO] starting up
+2020-09-07T17:57:37.778Z HttpServer [INFO] Starting...
+2020-09-07T17:57:37.781Z HttpServer [INFO] Listening on port: 80
+2020-09-07T17:57:37.782Z main [INFO] started
+2020-09-07T17:57:39.850Z main [INFO] Request: /
+2020-09-07T17:57:39.852Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T17:57:45.807Z HttpServer [INFO] ...Closed.
+2020-09-07T17:57:45.810Z HttpServer [ERROR] An error occurred: Server is not running.Error [ERR_SERVER_NOT_RUNNING]: Server is not running.
+    at Server.close (net.js:1604:12)
+    at Object.onceWrapper (events.js:422:28)
+    at Server.emit (events.js:328:22)
+    at emitCloseNT (net.js:1657:8)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+
+2020-09-07T17:57:45.813Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T17:57:45.818Z main [INFO] Request: /
+2020-09-07T17:57:45.879Z main [INFO] Request: /favicon.ico
+2020-09-07T17:58:44.293Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T17:58:49.025Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T17:58:49.027Z main [INFO] Request: /
+2020-09-07T17:58:49.075Z main [INFO] Request: /favicon.ico
+2020-09-07T18:19:41.686Z HttpServer [INFO] Stopping...
+2020-09-07T18:19:41.686Z HttpServer [INFO] ...Closed.
+2020-09-07T18:22:09.505Z main [INFO] starting up
+2020-09-07T18:22:09.505Z HttpServer [INFO] Starting...
+2020-09-07T18:22:09.509Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:22:09.509Z main [INFO] started
+2020-09-07T18:22:18.445Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:24:48.694Z HttpServer [INFO] Stopping...
+2020-09-07T18:25:04.077Z HttpServer [INFO] Stopping...
+2020-09-07T18:25:08.270Z main [INFO] starting up
+2020-09-07T18:25:08.270Z HttpServer [INFO] Starting...
+2020-09-07T18:25:08.273Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:25:08.273Z main [INFO] started
+2020-09-07T18:25:10.660Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:25:10.662Z HttpServer [INFO] ...Closed.
+2020-09-07T18:25:10.663Z HttpServer [ERROR] An error occurred: Server is not running.Error [ERR_SERVER_NOT_RUNNING]: Server is not running.
+    at Server.close (net.js:1604:12)
+    at Object.onceWrapper (events.js:422:28)
+    at Server.emit (events.js:328:22)
+    at emitCloseNT (net.js:1657:8)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+
+2020-09-07T18:25:20.695Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:26:02.485Z HttpServer [INFO] Stopping...
+2020-09-07T18:26:06.360Z HttpServer [INFO] ...Closed.
+2020-09-07T18:26:16.283Z main [INFO] starting up
+2020-09-07T18:26:16.284Z HttpServer [INFO] Starting...
+2020-09-07T18:26:16.286Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:26:16.286Z main [INFO] started
+2020-09-07T18:26:21.966Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:26:21.977Z HttpServer [INFO] Routing Request: /
+2020-09-07T18:27:10.648Z HttpServer [INFO] Stopping...
+2020-09-07T18:27:13.689Z HttpServer [INFO] ...Closed.
+2020-09-07T18:27:20.039Z main [INFO] starting up
+2020-09-07T18:27:20.039Z HttpServer [INFO] Starting...
+2020-09-07T18:27:20.042Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:27:20.042Z main [INFO] started
+2020-09-07T18:27:23.613Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:27:23.618Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T18:27:23.618Z HttpServer [DEBUG] Checking Route Chunk: 
+2020-09-07T18:27:39.780Z HttpServer [INFO] Stopping...
+2020-09-07T18:27:42.070Z HttpServer [INFO] ...Closed.
+2020-09-07T18:28:45.671Z main [INFO] starting up
+2020-09-07T18:28:45.672Z HttpServer [INFO] Starting...
+2020-09-07T18:28:45.674Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:28:45.674Z main [INFO] started
+2020-09-07T18:28:56.608Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:28:56.615Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T18:28:56.615Z HttpServer [DEBUG] Checking Route Chunk: 
+2020-09-07T18:28:56.615Z HttpServer [DEBUG] Checking RegExp
+2020-09-07T18:28:56.615Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:29:32.374Z HttpServer [INFO] Stopping...
+2020-09-07T18:29:34.640Z HttpServer [INFO] ...Closed.
+2020-09-07T18:29:39.870Z main [INFO] starting up
+2020-09-07T18:29:39.870Z HttpServer [INFO] Starting...
+2020-09-07T18:29:39.873Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:29:39.873Z main [INFO] started
+2020-09-07T18:29:43.233Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:29:43.242Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T18:29:43.242Z HttpServer [DEBUG] Checking Route Chunk: 
+2020-09-07T18:29:43.242Z HttpServer [DEBUG] Checking RegExp
+2020-09-07T18:29:43.242Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:29:43.242Z HttpServer [DEBUG] Match Found.
+2020-09-07T18:30:17.713Z HttpServer [INFO] Stopping...
+2020-09-07T18:30:20.127Z HttpServer [INFO] ...Closed.
+2020-09-07T18:30:25.454Z main [INFO] starting up
+2020-09-07T18:30:25.454Z HttpServer [INFO] Starting...
+2020-09-07T18:30:25.456Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:30:25.456Z main [INFO] started
+2020-09-07T18:30:29.187Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:30:29.197Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:30:29.198Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T18:30:29.198Z HttpServer [DEBUG] Checking Route Chunk: 
+2020-09-07T18:30:29.198Z HttpServer [DEBUG] Checking RegExp
+2020-09-07T18:30:29.198Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:30:29.198Z HttpServer [DEBUG] Match Found.
+2020-09-07T18:30:46.618Z HttpServer [INFO] Stopping...
+2020-09-07T18:30:49.864Z HttpServer [INFO] ...Closed.
+2020-09-07T18:30:54.849Z main [INFO] starting up
+2020-09-07T18:30:54.849Z HttpServer [INFO] Starting...
+2020-09-07T18:30:54.852Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:30:54.852Z main [INFO] started
+2020-09-07T18:30:57.279Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:30:57.288Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:30:57.289Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T18:30:57.289Z HttpServer [DEBUG] Checking Route Chunk: 
+2020-09-07T18:30:57.289Z HttpServer [DEBUG] Checking RegExp
+2020-09-07T18:30:57.289Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:30:57.289Z HttpServer [DEBUG] Match Found.
+2020-09-07T18:31:47.996Z HttpServer [INFO] Stopping...
+2020-09-07T18:31:50.025Z HttpServer [INFO] ...Closed.
+2020-09-07T18:31:54.919Z main [INFO] starting up
+2020-09-07T18:31:54.919Z HttpServer [INFO] Starting...
+2020-09-07T18:31:54.922Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:31:54.922Z main [INFO] started
+2020-09-07T18:31:55.772Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:31:55.782Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T18:31:55.782Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:31:55.783Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T18:31:55.783Z HttpServer [DEBUG] Checking Route Chunk: 
+2020-09-07T18:31:55.783Z HttpServer [DEBUG] Checking RegExp
+2020-09-07T18:31:55.783Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:31:55.783Z HttpServer [DEBUG] Match Found.
+2020-09-07T18:31:55.783Z HttpServer [DEBUG] RegEx middleware built
+2020-09-07T18:31:55.784Z HttpServer [DEBUG] Handling 0 middleware.
+2020-09-07T18:35:35.975Z HttpServer [INFO] Stopping...
+2020-09-07T18:35:38.723Z HttpServer [INFO] ...Closed.
+2020-09-07T18:35:44.157Z main [INFO] starting up
+2020-09-07T18:35:44.157Z HttpServer [INFO] Starting...
+2020-09-07T18:35:44.159Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:35:44.160Z main [INFO] started
+2020-09-07T18:35:47.089Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:35:47.099Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T18:35:47.099Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:35:47.099Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T18:35:47.100Z HttpServer [DEBUG] Checking Route Chunk: 
+2020-09-07T18:35:47.100Z HttpServer [DEBUG] Checking RegExp
+2020-09-07T18:35:47.100Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:35:47.100Z HttpServer [DEBUG] RegEx middleware built
+2020-09-07T18:35:47.100Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T18:35:47.100Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:35:47.100Z main [INFO] Request: /
+2020-09-07T18:35:47.213Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T18:35:47.213Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:35:47.213Z HttpServer [DEBUG] Routing Request: /favicon.ico
+2020-09-07T18:35:47.213Z HttpServer [DEBUG] Checking Route Chunk: 
+2020-09-07T18:35:47.214Z HttpServer [DEBUG] Checking RegExp
+2020-09-07T18:35:47.214Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:35:47.214Z HttpServer [DEBUG] RegEx middleware built
+2020-09-07T18:35:47.214Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T18:35:47.214Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:35:47.214Z main [INFO] Request: /favicon.ico
+2020-09-07T18:41:57.737Z HttpServer [INFO] Stopping...
+2020-09-07T18:41:57.738Z HttpServer [INFO] ...Closed.
+2020-09-07T18:44:24.991Z main [INFO] starting up
+2020-09-07T18:44:24.991Z HttpServer [INFO] Starting...
+2020-09-07T18:44:24.995Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:44:24.995Z main [INFO] started
+2020-09-07T18:44:28.933Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:44:28.959Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T18:44:28.960Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:44:28.960Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T18:44:28.960Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:44:28.960Z main [INFO] Request: /
+2020-09-07T18:47:42.028Z HttpServer [INFO] Stopping...
+2020-09-07T18:47:42.029Z HttpServer [INFO] ...Closed.
+2020-09-07T18:47:46.223Z main [INFO] starting up
+2020-09-07T18:47:46.223Z HttpServer [INFO] Starting...
+2020-09-07T18:47:46.226Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:47:46.226Z main [INFO] started
+2020-09-07T18:47:46.621Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:47:46.634Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T18:47:46.634Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:47:46.635Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T18:47:46.635Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:47:46.635Z main [INFO] Request: /
+2020-09-07T18:49:08.199Z HttpServer [INFO] Stopping...
+2020-09-07T18:49:08.200Z HttpServer [INFO] ...Closed.
+2020-09-07T18:49:12.554Z main [INFO] starting up
+2020-09-07T18:49:12.554Z HttpServer [INFO] Starting...
+2020-09-07T18:49:12.557Z HttpServer [INFO] Listening on port: 80
+2020-09-07T18:49:12.557Z main [INFO] started
+2020-09-07T18:49:14.715Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:49:14.721Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T18:49:14.721Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:49:14.722Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T18:49:14.722Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:49:14.722Z main [INFO] Request: /
+2020-09-07T18:49:14.722Z HttpServer [DEBUG] Next called
+2020-09-07T18:49:14.722Z HttpServer [DEBUG] Handling 0 middleware.
+2020-09-07T18:49:51.258Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T18:49:52.979Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T18:49:52.979Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T18:49:52.979Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T18:49:52.979Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T18:49:52.979Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:49:52.979Z main [INFO] Request: /hello-world
+2020-09-07T18:49:52.979Z HttpServer [DEBUG] Next called
+2020-09-07T18:49:52.979Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T18:49:52.979Z HttpServer [DEBUG] Handling middleware
+2020-09-07T18:54:21.570Z HttpServer [INFO] Stopping...
+2020-09-07T18:54:21.571Z HttpServer [INFO] ...Closed.
+2020-09-07T19:11:12.185Z main [INFO] starting up
+2020-09-07T19:11:12.186Z HttpServer [INFO] Starting...
+2020-09-07T19:11:12.188Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:11:12.188Z main [INFO] started
+2020-09-07T19:11:16.429Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:11:16.444Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:11:16.444Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:11:16.444Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T19:11:16.444Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:11:16.445Z main [INFO] Request: /hello-world
+2020-09-07T19:11:16.445Z HttpServer [DEBUG] Next called
+2020-09-07T19:11:16.445Z HttpServer [DEBUG] Handling 0 middleware.
+2020-09-07T19:11:22.388Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:11:22.403Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T19:11:22.403Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:11:22.404Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T19:11:22.404Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:11:22.404Z main [INFO] Request: /
+2020-09-07T19:11:22.404Z HttpServer [DEBUG] Next called
+2020-09-07T19:11:22.404Z HttpServer [DEBUG] Handling 0 middleware.
+2020-09-07T19:11:52.995Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:11:53.013Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T19:11:53.014Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:11:53.014Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T19:11:53.014Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:11:53.014Z main [INFO] Request: /
+2020-09-07T19:11:53.014Z HttpServer [DEBUG] Next called
+2020-09-07T19:11:53.014Z HttpServer [DEBUG] Handling 0 middleware.
+2020-09-07T19:11:59.090Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:11:59.106Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:11:59.106Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:11:59.107Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T19:11:59.107Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:11:59.107Z main [INFO] Request: /hello-world
+2020-09-07T19:11:59.107Z HttpServer [DEBUG] Next called
+2020-09-07T19:11:59.107Z HttpServer [DEBUG] Handling 0 middleware.
+2020-09-07T19:12:18.580Z HttpServer [INFO] Stopping...
+2020-09-07T19:12:21.214Z HttpServer [INFO] ...Closed.
+2020-09-07T19:12:25.697Z main [INFO] starting up
+2020-09-07T19:12:25.698Z HttpServer [INFO] Starting...
+2020-09-07T19:12:25.700Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:12:25.700Z main [INFO] started
+2020-09-07T19:12:28.186Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:12:28.196Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:12:28.196Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:12:28.196Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:12:28.197Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:13:01.115Z HttpServer [INFO] Stopping...
+2020-09-07T19:13:01.116Z HttpServer [INFO] ...Closed.
+2020-09-07T19:13:04.692Z main [INFO] {"port":80,"logger":{"label":"HttpServer"},"open":false,"middleware":[null],"route":{"fullPath":"/","subroutes":{"/[GET|POST|PUT|DELETE]/hello-world":{"fullPath":"hello-world","subroutes":{},"middleware":[null]}},"middleware":[]},"regex":[{"regex":{}}],"server":{"_events":{"connection":[null,null]},"_eventsCount":5,"_connections":0,"_handle":null,"_usingWorkers":false,"_workers":[],"_unref":false,"allowHalfOpen":true,"pauseOnConnect":false,"httpAllowHalfOpen":false,"timeout":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"headersTimeout":60000}}
+2020-09-07T19:13:04.692Z main [INFO] starting up
+2020-09-07T19:13:04.692Z HttpServer [INFO] Starting...
+2020-09-07T19:13:04.696Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:13:04.696Z main [INFO] started
+2020-09-07T19:15:12.053Z HttpServer [INFO] Stopping...
+2020-09-07T19:15:12.055Z HttpServer [INFO] ...Closed.
+2020-09-07T19:15:15.131Z HttpServer [INFO] [null]
+2020-09-07T19:15:15.132Z main [INFO] {"port":80,"logger":{"label":"HttpServer"},"open":false,"middleware":[null],"route":{"fullPath":"/","subroutes":{"/[GET|POST|PUT|DELETE]/hello-world":{"fullPath":"hello-world","subroutes":{},"middleware":[null]}},"middleware":[]},"regex":[{"regex":{}}],"server":{"_events":{"connection":[null,null]},"_eventsCount":5,"_connections":0,"_handle":null,"_usingWorkers":false,"_workers":[],"_unref":false,"allowHalfOpen":true,"pauseOnConnect":false,"httpAllowHalfOpen":false,"timeout":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"headersTimeout":60000}}
+2020-09-07T19:15:15.132Z main [INFO] starting up
+2020-09-07T19:15:15.132Z HttpServer [INFO] Starting...
+2020-09-07T19:15:15.134Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:15:15.134Z main [INFO] started
+2020-09-07T19:15:28.180Z HttpServer [INFO] Stopping...
+2020-09-07T19:15:28.181Z HttpServer [INFO] ...Closed.
+2020-09-07T19:15:52.545Z HttpServer [INFO] ADDING PATH MIDDLEWARE
+2020-09-07T19:15:52.545Z HttpServer [INFO] [null]
+2020-09-07T19:15:52.545Z main [INFO] starting up
+2020-09-07T19:15:52.545Z HttpServer [INFO] Starting...
+2020-09-07T19:15:52.548Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:15:52.548Z main [INFO] started
+2020-09-07T19:16:23.564Z HttpServer [INFO] Stopping...
+2020-09-07T19:16:23.565Z HttpServer [INFO] ...Closed.
+2020-09-07T19:16:27.314Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:16:27.314Z HttpServer [INFO] [null]
+2020-09-07T19:16:27.314Z main [INFO] starting up
+2020-09-07T19:16:27.315Z HttpServer [INFO] Starting...
+2020-09-07T19:16:27.317Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:16:27.317Z main [INFO] started
+2020-09-07T19:17:12.113Z HttpServer [INFO] Stopping...
+2020-09-07T19:17:12.114Z HttpServer [INFO] ...Closed.
+2020-09-07T19:17:15.197Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:17:15.198Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:17:15.198Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:17:15.198Z HttpServer [INFO] [null]
+2020-09-07T19:17:15.198Z main [INFO] starting up
+2020-09-07T19:17:15.198Z HttpServer [INFO] Starting...
+2020-09-07T19:17:15.201Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:17:15.201Z main [INFO] started
+2020-09-07T19:18:30.910Z HttpServer [INFO] Stopping...
+2020-09-07T19:18:30.912Z HttpServer [INFO] ...Closed.
+2020-09-07T19:18:34.446Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:18:34.446Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:18:34.446Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:18:34.447Z HttpServer [INFO] [null]
+2020-09-07T19:18:34.447Z main [INFO] starting up
+2020-09-07T19:18:34.447Z HttpServer [INFO] Starting...
+2020-09-07T19:18:34.450Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:18:34.451Z main [INFO] started
+2020-09-07T19:18:42.863Z HttpServer [INFO] Stopping...
+2020-09-07T19:18:42.863Z HttpServer [INFO] ...Closed.
+2020-09-07T19:18:49.337Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:18:49.338Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:18:49.338Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:18:49.338Z HttpServer [INFO] [null]
+2020-09-07T19:18:49.338Z main [INFO] starting up
+2020-09-07T19:18:49.338Z HttpServer [INFO] Starting...
+2020-09-07T19:18:49.340Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:18:49.340Z main [INFO] started
+2020-09-07T19:19:55.952Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:19:55.956Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:19:55.957Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:19:55.957Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:19:55.958Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:20:09.594Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:20:09.595Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:20:09.595Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:20:09.595Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:20:09.595Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:21:10.195Z HttpServer [INFO] Stopping...
+2020-09-07T19:21:10.196Z HttpServer [INFO] ...Closed.
+2020-09-07T19:21:13.791Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:21:13.792Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:21:13.792Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:21:13.792Z HttpServer [INFO] [null]
+2020-09-07T19:21:13.792Z main [INFO] starting up
+2020-09-07T19:21:13.792Z HttpServer [INFO] Starting...
+2020-09-07T19:21:13.795Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:21:13.795Z main [INFO] started
+2020-09-07T19:21:19.740Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:21:19.783Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:21:19.783Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:21:19.783Z HttpServer [INFO] CHECKING FOR KEY: GEThello-world
+2020-09-07T19:21:19.783Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:21:19.783Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:21:50.188Z HttpServer [INFO] Stopping...
+2020-09-07T19:21:50.189Z HttpServer [INFO] ...Closed.
+2020-09-07T19:21:54.038Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:21:54.038Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:21:54.038Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:21:54.038Z HttpServer [INFO] [null]
+2020-09-07T19:21:54.038Z main [INFO] starting up
+2020-09-07T19:21:54.038Z HttpServer [INFO] Starting...
+2020-09-07T19:21:54.041Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:21:54.041Z main [INFO] started
+2020-09-07T19:21:54.834Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:21:54.836Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:21:54.837Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:21:54.837Z HttpServer [INFO] CHECKING FOR KEY: [GET]hello-world
+2020-09-07T19:21:54.837Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:21:54.837Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:22:44.345Z HttpServer [INFO] Stopping...
+2020-09-07T19:22:44.346Z HttpServer [INFO] ...Closed.
+2020-09-07T19:22:47.439Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:22:47.439Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:22:47.439Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:22:47.440Z HttpServer [INFO] [null]
+2020-09-07T19:22:47.440Z main [INFO] starting up
+2020-09-07T19:22:47.440Z HttpServer [INFO] Starting...
+2020-09-07T19:22:47.442Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:22:47.442Z main [INFO] started
+2020-09-07T19:22:51.382Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:22:51.383Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:22:51.384Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:22:51.384Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T19:22:51.384Z HttpServer [INFO] SUBROUTE PATH REGEX: /[GET|POST|PUT|DELETE]/hello-world
+2020-09-07T19:22:51.384Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:22:51.384Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:23:17.821Z HttpServer [INFO] Stopping...
+2020-09-07T19:23:17.823Z HttpServer [INFO] ...Closed.
+2020-09-07T19:23:21.238Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:23:21.238Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:23:21.238Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:23:21.238Z HttpServer [INFO] [null]
+2020-09-07T19:23:21.239Z main [INFO] starting up
+2020-09-07T19:23:21.239Z HttpServer [INFO] Starting...
+2020-09-07T19:23:21.241Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:23:21.241Z main [INFO] started
+2020-09-07T19:23:23.668Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:23:23.669Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:23:23.669Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:23:23.670Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T19:23:23.670Z HttpServer [INFO] SUBROUTE PATH REGEX: [GET|POST|PUT|DELETE]hello-world
+2020-09-07T19:23:23.670Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:23:23.670Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:23:31.884Z HttpServer [INFO] Stopping...
+2020-09-07T19:23:31.885Z HttpServer [INFO] ...Closed.
+2020-09-07T19:28:21.100Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:28:21.100Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:28:21.100Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:28:21.100Z HttpServer [INFO] [null]
+2020-09-07T19:28:21.100Z main [INFO] starting up
+2020-09-07T19:28:21.100Z HttpServer [INFO] Starting...
+2020-09-07T19:28:21.103Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:28:21.103Z main [INFO] started
+2020-09-07T19:28:24.268Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:28:24.269Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:28:24.269Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:28:24.270Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T19:28:24.270Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T19:28:24.270Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T19:28:24.270Z HttpServer [DEBUG] Handling 3 middleware.
+2020-09-07T19:28:24.270Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:29:14.278Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:29:14.279Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:29:14.279Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:29:14.279Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T19:29:14.279Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T19:29:14.279Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T19:29:14.279Z HttpServer [DEBUG] Handling 3 middleware.
+2020-09-07T19:29:14.279Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:29:14.896Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:29:14.896Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:29:14.896Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T19:29:14.897Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T19:29:14.897Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T19:29:14.897Z HttpServer [DEBUG] Handling 3 middleware.
+2020-09-07T19:29:14.897Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:30:39.332Z HttpServer [INFO] Stopping...
+2020-09-07T19:30:39.333Z HttpServer [INFO] ...Closed.
+2020-09-07T19:30:42.339Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:30:42.339Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:30:42.340Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:30:42.340Z HttpServer [INFO] [null]
+2020-09-07T19:30:42.340Z main [INFO] starting up
+2020-09-07T19:30:42.340Z HttpServer [INFO] Starting...
+2020-09-07T19:30:42.342Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:30:42.342Z main [INFO] started
+2020-09-07T19:30:45.856Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:30:45.858Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:30:45.858Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:30:45.858Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T19:30:45.859Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T19:30:45.859Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T19:30:45.859Z HttpServer [DEBUG] Handling 3 middleware.
+2020-09-07T19:30:45.859Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:30:45.859Z HttpServer [INFO] NOT FOUND
+2020-09-07T19:31:08.721Z HttpServer [INFO] Stopping...
+2020-09-07T19:31:08.721Z HttpServer [INFO] ...Closed.
+2020-09-07T19:31:12.391Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:31:12.391Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:31:12.391Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:31:12.391Z HttpServer [INFO] [null]
+2020-09-07T19:31:12.391Z main [INFO] starting up
+2020-09-07T19:31:12.391Z HttpServer [INFO] Starting...
+2020-09-07T19:31:12.394Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:31:12.394Z main [INFO] started
+2020-09-07T19:31:13.463Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:31:13.465Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:31:13.465Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:31:13.466Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T19:31:13.466Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T19:31:13.466Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T19:31:13.466Z HttpServer [DEBUG] Handling 3 middleware.
+2020-09-07T19:31:13.466Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:31:13.466Z HttpServer [INFO] NOT FOUND
+2020-09-07T19:31:14.527Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:31:14.527Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:31:14.527Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T19:31:14.527Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T19:31:14.527Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T19:31:14.527Z HttpServer [DEBUG] Handling 3 middleware.
+2020-09-07T19:31:14.527Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:31:14.527Z HttpServer [INFO] NOT FOUND
+2020-09-07T19:33:02.953Z HttpServer [INFO] Stopping...
+2020-09-07T19:33:02.954Z HttpServer [INFO] ...Closed.
+2020-09-07T19:33:07.016Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:33:07.016Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:33:07.016Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:33:07.016Z HttpServer [INFO] [null]
+2020-09-07T19:33:07.016Z main [INFO] starting up
+2020-09-07T19:33:07.017Z HttpServer [INFO] Starting...
+2020-09-07T19:33:07.019Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:33:07.019Z main [INFO] started
+2020-09-07T19:33:09.733Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:33:09.735Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:33:09.735Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:33:09.735Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T19:33:09.735Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T19:33:09.735Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T19:33:09.735Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:33:09.735Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:33:09.735Z main [INFO] Request: /hello-world
+2020-09-07T19:33:09.735Z HttpServer [DEBUG] Next called
+2020-09-07T19:33:09.735Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T19:33:09.736Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:33:09.736Z main [INFO] HELLO WORLD CALLED
+2020-09-07T19:36:34.942Z HttpServer [INFO] Stopping...
+2020-09-07T19:36:34.943Z HttpServer [INFO] ...Closed.
+2020-09-07T19:36:46.138Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:36:46.139Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:36:46.139Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:36:46.140Z HttpServer [INFO] [null]
+2020-09-07T19:36:46.140Z main [INFO] starting up
+2020-09-07T19:36:46.141Z HttpServer [INFO] Starting...
+2020-09-07T19:36:46.149Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:36:46.150Z main [INFO] started
+2020-09-07T19:37:07.472Z HttpServer [INFO] Stopping...
+2020-09-07T19:37:07.474Z HttpServer [INFO] ...Closed.
+2020-09-07T19:37:18.695Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:37:18.696Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:37:18.696Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:37:18.697Z HttpServer [INFO] [null]
+2020-09-07T19:37:18.697Z HttpServer [INFO] USING => hello-cory:undefined
+2020-09-07T19:37:18.697Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:37:18.697Z HttpServer [INFO] [null]
+2020-09-07T19:37:18.698Z main [INFO] starting up
+2020-09-07T19:37:18.698Z HttpServer [INFO] Starting...
+2020-09-07T19:37:18.706Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:37:18.707Z main [INFO] started
+2020-09-07T19:37:26.841Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:37:28.900Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T19:37:28.901Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:37:28.902Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T19:37:28.902Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T19:37:28.902Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T19:37:28.903Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:37:28.903Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:37:28.904Z main [INFO] Request: /hello-world
+2020-09-07T19:37:28.904Z HttpServer [DEBUG] Next called
+2020-09-07T19:37:28.904Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T19:37:28.904Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:37:28.905Z main [INFO] HELLO WORLD CALLED
+2020-09-07T19:37:32.397Z HttpServer [DEBUG] Routing Request: /hello-cory
+2020-09-07T19:37:32.398Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:37:32.398Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-cory
+2020-09-07T19:37:32.398Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T19:37:32.399Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-cory$
+2020-09-07T19:37:32.399Z HttpServer [DEBUG] Found Route: hello-cory
+2020-09-07T19:37:32.400Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:37:32.400Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:37:32.400Z main [INFO] Request: /hello-cory
+2020-09-07T19:37:32.400Z HttpServer [DEBUG] Next called
+2020-09-07T19:37:32.400Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T19:37:32.400Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:37:46.939Z HttpServer [INFO] Stopping...
+2020-09-07T19:37:46.940Z HttpServer [INFO] ...Closed.
+2020-09-07T19:37:58.338Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T19:37:58.338Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T19:37:58.339Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:37:58.340Z HttpServer [INFO] [null]
+2020-09-07T19:37:58.340Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T19:37:58.340Z HttpServer [INFO] [null]
+2020-09-07T19:37:58.340Z main [INFO] starting up
+2020-09-07T19:37:58.341Z HttpServer [INFO] Starting...
+2020-09-07T19:37:58.349Z HttpServer [INFO] Listening on port: 80
+2020-09-07T19:37:58.350Z main [INFO] started
+2020-09-07T19:38:01.224Z HttpServer [INFO] Connection Established: ::ffff:127.0.0.1
+2020-09-07T19:38:01.230Z HttpServer [DEBUG] Routing Request: /hello-cory
+2020-09-07T19:38:01.230Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T19:38:01.231Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-cory
+2020-09-07T19:38:01.231Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T19:38:01.231Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET)\]hello-cory$
+2020-09-07T19:38:01.232Z HttpServer [DEBUG] Found Route: hello-cory
+2020-09-07T19:38:01.232Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T19:38:01.233Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:38:01.233Z main [INFO] Request: /hello-cory
+2020-09-07T19:38:01.233Z HttpServer [DEBUG] Next called
+2020-09-07T19:38:01.233Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T19:38:01.234Z HttpServer [DEBUG] Handling middleware
+2020-09-07T19:38:08.333Z HttpServer [INFO] Stopping...
+2020-09-07T19:38:08.334Z HttpServer [INFO] ...Closed.
+2020-09-07T21:36:25.690Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T21:36:25.690Z HttpServer [INFO] USING => hello-world:undefined
+2020-09-07T21:36:25.690Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T21:36:25.690Z HttpServer [INFO] [null]
+2020-09-07T21:36:25.690Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T21:36:25.691Z HttpServer [INFO] [null]
+2020-09-07T21:36:25.691Z main [INFO] starting up
+2020-09-07T21:36:25.691Z HttpServer [INFO] Starting...
+2020-09-07T21:36:25.694Z HttpServer [INFO] Listening on port: 80
+2020-09-07T21:36:25.695Z main [INFO] started
+2020-09-07T21:40:45.536Z HttpServer [INFO] Stopping...
+2020-09-07T21:40:45.537Z HttpServer [INFO] ...Closed.
+2020-09-07T21:40:49.274Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T21:40:49.274Z HttpServer [INFO] USING => /hello-world:undefined
+2020-09-07T21:40:49.274Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T21:40:49.274Z HttpServer [INFO] [null]
+2020-09-07T21:40:49.275Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T21:40:49.275Z HttpServer [INFO] [null]
+2020-09-07T21:40:49.275Z main [INFO] starting up
+2020-09-07T21:40:49.275Z HttpServer [INFO] Starting...
+2020-09-07T21:40:49.278Z HttpServer [INFO] Listening on port: 80
+2020-09-07T21:40:49.278Z main [INFO] started
+2020-09-07T21:40:51.520Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T21:40:51.520Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T21:40:51.524Z HttpServer [DEBUG] Routing Request: /
+2020-09-07T21:40:51.524Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T21:40:51.525Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T21:40:51.525Z HttpServer [DEBUG] Handling middleware
+2020-09-07T21:40:51.525Z main [INFO] Request: /
+2020-09-07T21:40:51.525Z HttpServer [DEBUG] Next called
+2020-09-07T21:40:51.525Z HttpServer [DEBUG] Handling 0 middleware.
+2020-09-07T21:40:54.074Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T21:40:54.075Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T21:40:54.075Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T21:40:54.075Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T21:40:54.076Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T21:40:54.076Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T21:40:54.076Z HttpServer [DEBUG] Handling middleware
+2020-09-07T21:40:54.076Z main [INFO] Request: /hello-world
+2020-09-07T21:40:54.076Z HttpServer [DEBUG] Next called
+2020-09-07T21:40:54.076Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T21:40:54.076Z HttpServer [DEBUG] Handling middleware
+2020-09-07T21:40:54.076Z main [INFO] HELLO WORLD CALLED
+2020-09-07T21:40:54.138Z HttpServer [DEBUG] Routing Request: /favicon.ico
+2020-09-07T21:40:54.138Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T21:40:54.138Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]favicon.ico
+2020-09-07T21:40:54.139Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T21:40:54.139Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET)\]hello-cory$
+2020-09-07T21:40:54.139Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T21:40:54.139Z HttpServer [DEBUG] Handling middleware
+2020-09-07T21:40:54.139Z main [INFO] Request: /favicon.ico
+2020-09-07T21:40:54.139Z HttpServer [DEBUG] Next called
+2020-09-07T21:40:54.139Z HttpServer [DEBUG] Handling 0 middleware.
+2020-09-07T21:43:24.846Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T21:43:24.846Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T21:43:24.847Z HttpServer [DEBUG] Routing Request: /hello-world?name=test
+2020-09-07T21:43:24.847Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T21:43:24.847Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world?name=test
+2020-09-07T21:43:24.847Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T21:43:24.847Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET)\]hello-cory$
+2020-09-07T21:43:24.848Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T21:43:24.848Z HttpServer [DEBUG] Handling middleware
+2020-09-07T21:43:24.848Z main [INFO] Request: /hello-world?name=test
+2020-09-07T21:43:24.848Z HttpServer [DEBUG] Next called
+2020-09-07T21:43:24.848Z HttpServer [DEBUG] Handling 0 middleware.
+2020-09-07T22:06:21.153Z HttpServer [INFO] Stopping...
+2020-09-07T22:06:24.537Z HttpServer [INFO] ...Closed.
+2020-09-07T22:18:34.498Z HttpServer [INFO] USING => /^.+$/:undefined
+2020-09-07T22:18:34.498Z HttpServer [INFO] USING => /hello-world:undefined
+2020-09-07T22:18:34.499Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T22:18:34.499Z HttpServer [INFO] [null]
+2020-09-07T22:18:34.499Z HttpServer [INFO] ADDING PATH MIDDLEWAREundefined
+2020-09-07T22:18:34.499Z HttpServer [INFO] [null]
+2020-09-07T22:18:34.499Z main [INFO] starting up
+2020-09-07T22:18:34.499Z HttpServer [INFO] Starting...
+2020-09-07T22:18:34.501Z HttpServer [INFO] Listening on port: 80
+2020-09-07T22:18:34.502Z main [INFO] started
+2020-09-07T22:18:40.673Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T22:18:40.673Z HttpServer [INFO] Connection Established: ::1
+2020-09-07T22:18:40.677Z HttpServer [DEBUG] Routing Request: /hello-world
+2020-09-07T22:18:40.677Z HttpServer [DEBUG] Testing Regex: [object Object]
+2020-09-07T22:18:40.677Z HttpServer [INFO] CHECKING FOR PATH MATCHES: [GET]hello-world
+2020-09-07T22:18:40.677Z HttpServer [INFO] SUBROUTE PATH REGEX: ^\[(GET|POST|PUT|DELETE)\]hello-world$
+2020-09-07T22:18:40.677Z HttpServer [DEBUG] Found Route: hello-world
+2020-09-07T22:18:40.677Z HttpServer [DEBUG] Handling 2 middleware.
+2020-09-07T22:18:40.677Z HttpServer [DEBUG] Handling middleware
+2020-09-07T22:18:40.677Z main [INFO] Request: /hello-world
+2020-09-07T22:18:40.677Z HttpServer [DEBUG] Next called
+2020-09-07T22:18:40.677Z HttpServer [DEBUG] Handling 1 middleware.
+2020-09-07T22:18:40.677Z HttpServer [DEBUG] Handling middleware
+2020-09-07T22:18:40.677Z main [INFO] HELLO WORLD CALLED
+2020-09-07T22:23:00.266Z HttpServer [INFO] Stopping...
+2020-09-07T22:23:01.386Z HttpServer [INFO] Stopping...
